@@ -14,9 +14,9 @@ export default {
     return {
       title: "All Books",
       books: [
-          { title: "book 1", author: "author1" },
-          {title: 'book 2', author: 'author2'},
-          {title: 'book 3', author: 'author3'}
+          {title: "Self-Reliance", author: "Ralph Waldo Emerson" },
+          {title: 'American Gods', author: 'Neil Gaiman'},
+          {title: 'Amusing Ourselves to Death', author: 'Neil Postman'}
       ]
     };
   }
